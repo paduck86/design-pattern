@@ -1,5 +1,7 @@
 package chapter11.proxyPattern.virtualProxy;
 
+import java.awt.Graphics;
+
 import javax.swing.Icon;
 import javax.swing.JComponent;
 
