@@ -1,8 +1,6 @@
-package quiz.logisticsCenter_v1.boxes;
+package quiz.logisticsCenter_v1.products;
 
 import java.util.HashMap;
-
-import quiz.logisticsCenter_v1.products.Item;
 
 public class Box {
 	private final int maxSize = 100;

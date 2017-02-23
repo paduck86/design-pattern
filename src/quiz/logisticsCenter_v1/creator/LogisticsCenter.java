@@ -1,10 +1,9 @@
-package quiz.logisticsCenter_v1;
+package quiz.logisticsCenter_v1.creator;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import quiz.logisticsCenter_v1.boxes.Box;
-import quiz.logisticsCenter_v1.factory.LogisticsFactory;
+import quiz.logisticsCenter_v1.products.Box;
 import quiz.logisticsCenter_v1.products.Item;
 
 public class LogisticsCenter {

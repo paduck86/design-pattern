@@ -1,4 +1,4 @@
-package quiz.logisticsCenter_v1.factory;
+package quiz.logisticsCenter_v1.creator;
 
 import quiz.logisticsCenter_v1.products.A;
 import quiz.logisticsCenter_v1.products.B;
